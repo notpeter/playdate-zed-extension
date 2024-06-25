@@ -1,0 +1,5 @@
+# languages/playdate-animation/config.toml
+name = "Playdate animation.txt"
+grammar = "playdate-animation"
+path_suffixes = ["animation.txt"]
+# line_comments = ["# "]

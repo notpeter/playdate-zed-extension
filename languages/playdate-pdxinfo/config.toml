@@ -1,0 +1,5 @@
+# languages/playdate-pdxinfo/config.toml
+name = "Playdate pdxinfo"
+grammar = "playdate-pdxinfo"
+path_suffixes = ["pdxinfo", "animation.txt"]
+line_comments = ["# "]

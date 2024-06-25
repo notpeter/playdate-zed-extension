@@ -1,5 +1,0 @@
-# languages/playdate/config.toml
-name = "Playdate"
-grammar = "playdate"
-path_suffixes = ["pdxinfo", "animation.txt"]
-line_comments = ["# "]

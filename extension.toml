@@ -8,6 +8,14 @@ authors = ["Peter Tripp <petertripp@gmail.com>"]
 description = "Playdate language support for Zed."
 repository = "https://github.com/notpeter/zed-playdate-extension"
 
-[grammars.playdate]
-repository = "https://github.com/notpeter/tree-sitter-playdate"
-commit = "2cf3b9b81ac1022e43ecb1acc4c67b9038e60a89"
+# [grammars.playdate]
+# repository = "https://github.com/notpeter/tree-sitter-playdate"
+# commit = "2cf3b9b81ac1022e43ecb1acc4c67b9038e60a89"
+
+[grammars.playdate-pdxinfo]
+repository = "https://github.com/notpeter/tree-sitter-playdate-pdxinfo"
+commit = "a6827cb04840969940356f56ff9a3afee37b60cb"
+
+[grammars.playdate-animation]
+repository = "https://github.com/notpeter/tree-sitter-playdate-animation"
+commit = "06f02eb6b794df699c5839050961c662de002473"
