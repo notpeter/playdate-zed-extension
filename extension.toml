@@ -5,17 +5,13 @@ name = "Playdate"
 schema_version = 1
 version = "0.1.0"
 authors = ["Peter Tripp <petertripp@gmail.com>"]
-description = "Playdate language support for Zed."
+description = "Playdate support for Zed."
 repository = "https://github.com/notpeter/zed-playdate-extension"
 
-# [grammars.playdate]
-# repository = "https://github.com/notpeter/tree-sitter-playdate"
-# commit = "2cf3b9b81ac1022e43ecb1acc4c67b9038e60a89"
+[grammars.pdxinfo]
+repository = "https://github.com/notpeter/tree-sitter-pdxinfo"
+commit = "5421120b9ee35db523295731e26aa7a33096e85f"
 
-[grammars.playdate-pdxinfo]
-repository = "https://github.com/notpeter/tree-sitter-playdate-pdxinfo"
-commit = "a6827cb04840969940356f56ff9a3afee37b60cb"
-
-[grammars.playdate-animation]
-repository = "https://github.com/notpeter/tree-sitter-playdate-animation"
-commit = "06f02eb6b794df699c5839050961c662de002473"
+[grammars.animationtxt]
+repository = "https://github.com/notpeter/tree-sitter-animationtxt"
+commit = "809d11a74d4eedb606e64cc3f29e306e58df3530"
