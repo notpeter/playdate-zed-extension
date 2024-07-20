@@ -8,4 +8,9 @@ for development of PlaydateSDK projects.
 - Syntax highlighting for `pdxinfo` files.
 - Syntax highlighting for `animation.txt` files.
 
-That's it!
+That's it! (so far)
+
+## Links
+
+- [notpeter/tree-sitter-pdxinfo](https://github.com/notpeter/tree-sitter-pdxinfo)
+- [notpeter/tree-sitter-animationtxt](https://github.com/notpeter/tree-sitter-animationtxt)
