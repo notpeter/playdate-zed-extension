@@ -10,8 +10,8 @@ repository = "https://github.com/notpeter/zed-playdate-extension"
 
 [grammars.pdxinfo]
 repository = "https://github.com/notpeter/tree-sitter-pdxinfo"
-commit = "5421120b9ee35db523295731e26aa7a33096e85f"
+commit = "582981fd8a75ea043055c63935f2a42f535ba72f"
 
 [grammars.animationtxt]
 repository = "https://github.com/notpeter/tree-sitter-animationtxt"
-commit = "809d11a74d4eedb606e64cc3f29e306e58df3530"
+commit = "8b4f242519ebaaa6ee2158ccfddf965e11796b02"
