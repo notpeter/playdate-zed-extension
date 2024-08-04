@@ -10,7 +10,7 @@ for development of PlaydateSDK projects.
 
 That's it! (so far)
 
-## Links
+## Dependencies:
 
 - [notpeter/tree-sitter-pdxinfo](https://github.com/notpeter/tree-sitter-pdxinfo)
 - [notpeter/tree-sitter-animationtxt](https://github.com/notpeter/tree-sitter-animationtxt)
