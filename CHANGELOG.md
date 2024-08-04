@@ -2,7 +2,7 @@
 
 ## Unreleased
 
-## [0.1.0] - 2024-06-23
+## [0.1.0] - 2024-08-04
 
 - Initial release
 - Support for `pdxinfo` files.
