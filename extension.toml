@@ -3,10 +3,10 @@
 id = "playdate"
 name = "Playdate"
 schema_version = 1
-version = "0.1.0"
+version = "0.1.1"
 authors = ["Peter Tripp <petertripp@gmail.com>"]
 description = "Playdate support for Zed."
-repository = "https://github.com/notpeter/zed-playdate-extension"
+repository = "https://github.com/notpeter/playdate-zed-extension"
 
 [grammars.pdxinfo]
 repository = "https://github.com/notpeter/tree-sitter-pdxinfo"
