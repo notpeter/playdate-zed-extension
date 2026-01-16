@@ -7,10 +7,11 @@ for development of PlaydateSDK projects.
 
 - Syntax highlighting for `pdxinfo` files.
 - Syntax highlighting for `animation.txt` files.
+- "Playdate Lua" Language which
 
-That's it! (so far)
 
 ## Dependencies:
 
 - [notpeter/tree-sitter-pdxinfo](https://github.com/notpeter/tree-sitter-pdxinfo)
 - [notpeter/tree-sitter-animationtxt](https://github.com/notpeter/tree-sitter-animationtxt)
+- [notpeter/tree-sitter-playdatelua](https://github.com/notpeter/tree-sitter-playdatelua)
